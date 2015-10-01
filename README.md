@@ -83,15 +83,15 @@ To stage your changes for a commit, type.
 
 `git add .`
 
-![1](https://dl.dropboxusercontent.com/s/kesh225ztp4owbk/2015-05-03%20at%209.12%20PM.png)
+![1](https://dl.dropboxusercontent.com/s/55myv88uo7gu24d/2015-09-30%20at%208.34%20PM.png)
 
-5. Commit the file.
+Next step is committing the changes.
 
 `git commit -am "My first commit"`
 
 ![1](https://dl.dropboxusercontent.com/s/9y3zt153pvaabh0/2015-05-03%20at%209.14%20PM.png)
 
-## 4. Push Your Code to Github
+## 6. Push Your Code to Github
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/git-workflow-4.png" alt="Git Workflow 4">
 
@@ -126,3 +126,5 @@ After reviewing the comparison code and making sure it shows your solution, clic
 Then click Create pull request button again.
 
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg" alt="Ironboard Labs Step 4f">
+
+Once the Pull Request is created, you're all done! Great job!
