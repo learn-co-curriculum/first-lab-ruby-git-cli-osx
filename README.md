@@ -128,3 +128,5 @@ Then click Create pull request button again.
 <img width="100%" height="auto" src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-labs-step-4f.jpg" alt="Ironboard Labs Step 4f">
 
 Once the Pull Request is created, you're all done! Great job!
+
+<a href='https://learn.co/lessons/first-lab-ruby-git-cli-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
