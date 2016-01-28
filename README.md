@@ -129,4 +129,4 @@ Then click Create pull request button again.
 
 Once the Pull Request is created, you're all done! Great job!
 
-<a href='https://learn.co/lessons/first-lab-ruby-git-cli-osx' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/first-lab-ruby-git-cli-osx' title='First Lab Ruby - Git CLI - OSX'>First Lab Ruby - Git CLI - OSX</a> on Learn.co and start learning to code for free.</p>
